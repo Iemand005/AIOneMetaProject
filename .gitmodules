@@ -4,3 +4,6 @@
 [submodule "AIOneSvelte"]
 	path = AIOneSvelte
 	url = https://github.com/Iemand005/AIOneSvelte
+[submodule "AIOneQT"]
+	path = AIOneQT
+	url = https://github.com/Iemand005/AIOneQT
