@@ -7,3 +7,9 @@
 [submodule "AIOneQT"]
 	path = AIOneQT
 	url = https://github.com/Iemand005/AIOneQT
+[submodule "AIOneJS"]
+	path = AIOneJS
+	url = https://github.com/Iemand005/AIOneJS
+[submodule "AIOneCLI"]
+	path = AIOneCLI
+	url = https://github.com/Iemand005/AIOneCLI
