@@ -1,0 +1,7 @@
+  File: `/sdcard/Recordings/20261030_002.m4a'
+  Size: 982048858	 Blocks: 1918184	 IO Blocks: 4096	regular file
+Device: 13h	 Inode: 26153	 Links: 1
+Access: (660/-rw-rw----)	Uid: (0/    root)	Gid: (1015/    root)
+Access: 2026-10-30 07:09:16.307999985
+Modify: 2026-10-30 23:49:00.147977103
+Change: 2026-10-30 23:49:00.147977103
