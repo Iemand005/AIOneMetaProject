@@ -16,3 +16,12 @@
 [submodule "AIOneWeb"]
 	path = AIOneWeb
 	url = https://github.com/Iemand005/AIOneWeb
+[submodule "AIOneWin"]
+	path = AIOneWin
+	url = https://github.com/Iemand005/AIOneWin
+[submodule "AIOneServer"]
+	path = AIOneServer
+	url = https://github.com/Iemand005/AIOneServer
+[submodule "AIOneWX"]
+	path = AIOneWX
+	url = https://github.com/Iemand005/AIOneWX
