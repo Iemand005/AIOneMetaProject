@@ -1,3 +1,6 @@
 {
-	"cmake.sourceDirectory": "F:/AIOne/AIOneMetaProject/AIOneCLI"
+	"cmake.sourceDirectory": "F:/AIOne/AIOneMetaProject/AIOneCLI",
+    "terminal.integrated.autoReplies": {
+        "Terminate batch job (Y/N)?": "Y\r"
+    }
 }
