@@ -25,3 +25,9 @@
 [submodule "AIOneWX"]
 	path = AIOneWX
 	url = https://github.com/Iemand005/AIOneWX
+[submodule "AIOneTauri"]
+	path = AIOneTauri
+	url = https://github.com/Iemand005/AIOneTauri
+[submodule "AIOneRS"]
+	path = AIOneRS
+	url = https://github.com/Iemand005/AIOneRS
