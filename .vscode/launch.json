@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug Pre-compiled EXE",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/AIOneCLI/build/Debug/AIOneCLI.exe",
+            "args": [
+                "image",
+                "-m",
+                "F:\\AIOne\\AIOneMetaProject\\AIOneCLI\\models\\sd3.5_large-Q4_0.gguf",
+                "-pos",
+                "cat, sitting by window, green scarf",
+                "-neg",
+                "ugly, negative aura",
+                "-o",
+                "test.png"
+            ],
+            "cwd": "${workspaceFolder}/AIOneCLI",
+            "environment": [],
+            "console": "integratedTerminal"
+        }
+    ]
+}

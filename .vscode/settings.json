@@ -1,6 +1,9 @@
 {
-	"cmake.sourceDirectory": "F:/AIOne/AIOneMetaProject/AIOneCLI",
+	"cmake.sourceDirectory": "F:/AIOne/AIOneMetaProject",
     "terminal.integrated.autoReplies": {
         "Terminate batch job (Y/N)?": "Y\r"
+    },
+    "cmake.configureSettings": {
+        "AIONE_ENABLE_STABLE_DIFFUSION": true
     }
 }
